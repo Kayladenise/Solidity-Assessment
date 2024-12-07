@@ -1,4 +1,4 @@
-# Solidity-Assessment
+# Avalanche - Create and Mint Token
 
 This project is a final assessment in Avalanche: Types of Functions - ETH + AVAX
 
