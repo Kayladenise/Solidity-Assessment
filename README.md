@@ -1,10 +1,10 @@
 # Solidity-Assessment
 
-This project is a final assessment in Solidity ETH PROOF: Beginner EVM Course.
+This project is a final assessment in Avalanche: Types of Functions - ETH + AVAX
 
 ## Description
 
-This project is about writing a smart contract in Solidity. The smart contract is about my own token, minting and burning it. As well as tracking the token balance and managing the total supply of the account.
+This project is about writing a smart contract to create your own ERC20 token and deploy it using HardHat or Remix. The smart contract is about my own token, minting and burning it. As well as tracking the token balance and managing the total supply of the account.
 
 ## Getting Started
 
